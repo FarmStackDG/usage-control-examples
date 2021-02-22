@@ -24,7 +24,7 @@
 In the current code, step1 is simulated by having a dummy ContractRequest.
 
 ## CAMEL Classes
-    Following classes are used in the respective xml files in provider and consumer. The actual classes are hosted by Fraunhofer.
+   Following classes are used in the respective xml files in provider and consumer. The actual classes are hosted by Fraunhofer.
 ## Provider
 1. Class name: ContractOfferCreationProcessor
     1. Function: 
